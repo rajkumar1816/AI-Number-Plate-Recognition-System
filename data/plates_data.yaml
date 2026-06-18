@@ -1,0 +1,4 @@
+train: C:/Users/arshi/OneDrive/Desktop/AI Number Plate Recognition System/data/plates_dataset/images/train
+val: C:/Users/arshi/OneDrive/Desktop/AI Number Plate Recognition System/data/plates_dataset/images/val
+nc: 1
+names: ['plate']
