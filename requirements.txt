@@ -1,5 +1,5 @@
 streamlit>=1.25.0
-opencv-python>=4.8.1
+opencv-python-headless>=4.8.1
 ultralytics>=8.0.140
 easyocr>=1.6.2
 pandas>=2.1.0
@@ -7,3 +7,6 @@ matplotlib>=3.8.0
 Pillow>=10.0.0
 python-dotenv>=1.0.0
 reportlab>=3.7.0
+numpy
+torch
+torchvision
